@@ -1,124 +1,137 @@
-body{
+body {
     color: #40514E;
     margin: 0px;
     text-align: center;
     position: relative;
     font-family: 'Merriweather', serif;
-    
+
 
 }
-h1{
+
+h1 {
     font-size: 5.625rem;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     color: #66BFBF;
     margin: 50px auto 0 auto;
 }
-h2{
+
+h2 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.5rem ;
+    font-size: 2.5rem;
     color: #66BFBF;
     font-weight: normal;
     padding-bottom: 10px;
 }
 
-h3{
+h3 {
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
 
-.top_container{
+.top_container {
     background-color: #E4F9F6;
-    padding-top:100px;
+    padding-top: 100px;
     background-size: cover;
 
 }
 
-hr{
+hr {
     border: dotted #929494 6px;
     border-top: 0;
     width: 4%;
-    margin:  auto;
+    margin: auto;
     margin-top: 4vh;
-    
-    
+
+
 }
-p{
+
+p {
     line-height: 2;
 }
 
 
-a{
+a {
     color: #11999E;
-    font-family: 'Montserrat', sans-serif; 
+    font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
-    
-}
-a:hover{
-    color:#E4F6F6 ;
+
 }
 
+a:hover {
+    color: #E4F6F6;
+}
 
 
-.middle-container{
+
+.middle-container {
     margin: 100px 0;
 }
-.bottom-container{
-    padding-top: 10px; ;
+
+.bottom-container {
+    padding-top: 10px;
+    ;
     background-color: #66BFBF;
-    
-    
+
+
 
 }
-.copyright{
+
+.copyright {
     margin-bottom: 0px;
-    color: #EAF6F6; 
+    color: #EAF6F6;
     font-size: 0.75rem;
     padding: 20px 0px;
 }
-.intro{
+
+.intro {
     width: 35%;
-    margin:  auto;
+    margin: auto;
 
 }
-.cloud-1{
+
+.cloud-1 {
     position: absolute;
-    
+
     right: 0px;
     top: 0px;
 }
-.cloud-2{
-    position:absolute;
+
+.cloud-2 {
+    position: absolute;
     left: 20px;
-    top:275px;
-    
-    
+    top: 275px;
+
+
 }
 
-.skill-row{
+.skill-row {
     width: 50%;
     margin: 100px auto;
     text-align: left;
-    
-    
+
+
 }
 
-.programming-img{
+.programming-img {
     margin-right: 30px;
     width: 35%;
     float: left;
 }
-.gaming-img{
+
+.gaming-img {
     margin-left: 30px;
     width: 30%;
     float: right;
 }
-.reading-img{
+
+.reading-img {
     width: 45%;
     float: left;
 }
-.contact-message{
+
+.contact-message {
     width: 40%;
     margin: 40px auto 60px;
 }
@@ -138,9 +151,9 @@ a:hover{
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-  }
-  
-  .btn:hover {
+}
+
+.btn:hover {
     background: #30e3cb;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
@@ -148,7 +161,8 @@ a:hover{
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
-  }
-
-
+}
+.contact-me{
+    margin: 4vh auto;
+}
 
