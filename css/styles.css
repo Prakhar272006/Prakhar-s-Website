@@ -30,6 +30,7 @@ h3{
 .top_container{
     background-color: #E4F9F6;
     padding-top:100px;
+    background-size: cover;
 
 }
 
@@ -37,7 +38,9 @@ hr{
     border: dotted #929494 6px;
     border-top: 0;
     width: 4%;
-    margin: 100px auto;
+    margin:  auto;
+    margin-top: 4vh;
+    
     
 }
 p{
